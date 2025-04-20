@@ -1,4 +1,3 @@
-![logo](https://github.com/0111rajankit/0111rajankit/blob/main/ankit_raj.png)
 ![Brown Wood Minimalist Profile LinkedIn Banner (3)](https://github.com/user-attachments/assets/a2d29677-038a-435f-95d2-a15f8697490b)
 
 <h1 align="center">Hi 👋, I'm Ankit Raj</h1>
