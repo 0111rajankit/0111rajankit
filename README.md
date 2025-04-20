@@ -1,6 +1,6 @@
 ![logo](https://github.com/0111rajankit/0111rajankit/blob/main/ankit_raj.png)
 <h1 align="center">Hi 👋, I'm Ankit Raj</h1>
-<h3 align="center">Driven and analytical Data Analyst with 1+ years of experience, leveraging expertise in Excel, Power BI, Tableau and SQL to transform data into actionable insights. Proven ability to gather, clean, analyze, and visualize data to support informed decision-making across various business functions. Possesses strong analytical skills, excellent communication, and a passion for extracting hidden value from information.</h3>
+<h3 align="center">Driven and analytical Data Analyst with 3+ years of experience, leveraging expertise in Excel, Power BI, Tableau and SQL to transform data into actionable insights. Proven ability to gather, clean, analyze, and visualize data to support informed decision-making across various business functions. Possesses strong analytical skills, excellent communication, and a passion for extracting hidden value from information.</h3>
 
 - 👨‍💻 All of my projects are available at [https://peerlist.io/ankitrajmishra](https://peerlist.io/ankitrajmishra)
 
